@@ -1,0 +1,10 @@
+NOTE: Maybe ask LSA if we can download the videos to attach to Canvas
+
+Gradient Boosting Estimation:
+https://youtu.be/3zEqUSf5duw
+
+General Boosting Explained:
+https://youtu.be/MIPkK5ZAsms
+
+Adaboost Explained:
+https://youtu.be/LsK-xG1cLYA

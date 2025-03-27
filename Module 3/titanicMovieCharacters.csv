@@ -1,0 +1,7 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Salutation
+13,3,"Dawson, Mr. Jack",male,20,0,0,A/5. 2151,8.05,S,Mr.
+586,1,"Dewitt-Bukater, Miss. Rose",female,18,0,2,110413,79.65,S,Miss.
+98,1,"Hockley, Mr. Caledon",male,23,0,1,PC 17759,63.3583,C,Mr.
+880,1,"Dewitt-Bukater, Mrs. Ruth",female,56,0,1,11767,83.1583,C,Mrs.
+185,3,"Cartmell, Miss. Cora",female,4,0,2,315153,22.025,S,Miss.
+807,1,"Andrews, Mr. Thomas Jr",male,39,0,0,112050,0,S,Mr.
